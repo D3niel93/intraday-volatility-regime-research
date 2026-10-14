@@ -1,0 +1,26 @@
+[
+  {
+    "source_relative_path": "research/audit_vxn_logistic_range_model.py",
+    "original_sha256": "A1B715E4AB3BA70005606B5401CAC1B7106533CDB34538EBAE036317840DEDF7",
+    "published_path": "archive/audit_vxn_logistic_range_model.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  },
+  {
+    "source_relative_path": "research/find_vxn_candle_patterns_ml.py",
+    "original_sha256": "3A01F875D6C1B94698528473635F096DA97981C757404E1488AA70660E59EE09",
+    "published_path": "archive/find_vxn_candle_patterns_ml.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  },
+  {
+    "source_relative_path": "research/analyze_vxn_5m_probability_reversal_sweep.py",
+    "original_sha256": "F7B493AD0943BDDE84503F320DB14591BDFD15F493D6B6DD8233DF10EEE5401E",
+    "published_path": "archive/analyze_vxn_5m_probability_reversal_sweep.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  },
+  {
+    "source_relative_path": "research/walkforward_vxn_wait60_deceleration_hedgefund.py",
+    "original_sha256": "8FA5B79C03A58EA51276E223CF9ABE1D5696B51A21F7478BD6FFF1D5C2FA13D9",
+    "published_path": "archive/walkforward_vxn_wait60_deceleration_hedgefund.py",
+    "note": "Sanitized research source; archived scripts need original private layout and dependencies."
+  }
+]

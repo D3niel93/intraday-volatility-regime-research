@@ -1,0 +1,2 @@
+audited_days,audited_bars,raw_files_originally_unsorted,total_mismatch_open,total_mismatch_high,total_mismatch_low,total_mismatch_close,total_mismatch_next_open,total_mismatch_next_high,total_mismatch_next_low,total_mismatch_next_close
+494,9344,491,0,0,0,604,0,0,0,608

@@ -1,0 +1,2 @@
+iterations,block_trades,prob_net_positive,net_points_ci_low,net_points_ci_high,expectancy_ci_low,expectancy_ci_high,pf_ci_low,pf_ci_high,max_drawdown_median,max_drawdown_95pct_worse,win_rate_ci_low,win_rate_ci_high
+20000,5,0.9555,-25.75,384.0,-0.42916666666666664,6.4,0.9463500630318311,2.6782927202373603,-66.0,-124.25,61.66666666666667,81.66666666666667

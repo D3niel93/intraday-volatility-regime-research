@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+generated/
+bin/
+obj/
+bin_checks/
+*.dll
+*.pdb
+.env
+*.parquet
+*.bin
+state/
