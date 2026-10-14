@@ -18,7 +18,7 @@ This project separates **numeric range forecasting**, **binary expansion classif
 | 2025 | 4,725 | 2,695 | 57.04% | 88.68% | 88.53% | 88.85% |
 | 2026 available subset | 3,058 | 1,448 | 47.35% | 84.12% | 79.79% | 88.86% |
 
-These are reconstructed stored predictions, **not a new training run**. The 2026 sample has 161 numeric-range sessions, not a complete year. Numeric MAE was 16.89 MNQ points in 2025 and 20.37 in 2026; high classification precision does not mean precise price levels.
+These are reconstructed stored predictions, **not a new training run**. The 2026 sample has 161 numeric-range sessions, not a complete year. Median absolute numeric error was 16.89 MNQ points in 2025 and 20.37 in 2026; these values are not mean absolute error. High classification precision does not mean precise price levels.
 
 ## Reproduce the public checks
 ```bash
